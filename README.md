@@ -36,7 +36,7 @@ python pacman.py -l mediumMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhat
 python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
 python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
 
-New Heuristic Function:
+Heuristic Function:
 python pacman.py -l tinyCorners -p AStarCornersAgent -z 0.5
 python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
 
