@@ -11,14 +11,14 @@ https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html
 
 --------------------------------------------------------
 
-Running Search Algorithms:
+Command Lines for Search Algorithms:
 
 Depth-First Search:
 
-python pacman.py -l tinyMaze -p SearchAgent
-python pacman.py -l mediumMaze -p SearchAgent
-python pacman.py -l bigMaze -z .5 -p SearchAgent
-python pacman.py -l openMaze -z .5 -p SearchAgent
+python pacman.py -l tinyMaze -p SearchAgent 
+python pacman.py -l mediumMaze -p SearchAgent 
+python pacman.py -l bigMaze -z .5 -p SearchAgent 
+python pacman.py -l openMaze -z .5 -p SearchAgent 
 
 Breadth-First Search :
 
